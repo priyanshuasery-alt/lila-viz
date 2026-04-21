@@ -2,7 +2,7 @@
 
 A browser-based telemetry visualization tool that lets Level Designers explore how players navigate LILA BLACK maps. Built for the Lila Games APM assignment.
 
-**Live Demo:** `https://lila-viz.vercel.app` ← replace with your URL after deploy
+**Live Demo:** `https://lila-viz-sigma.vercel.app` ← replace with your URL after deploy
 
 ---
 
